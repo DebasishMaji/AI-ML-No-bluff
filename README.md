@@ -1,7 +1,7 @@
 # AI-ML-No-bluff
-AI ML | No bluff
 
-# **Understanding Matrix Multiplication in Neural Networks**  
+## **Understanding Matrix Multiplication in Neural Networks**  
+
 ### *A Comprehensive Guide with a Real-World Example*  
 **Author**: Debasish Maji  
 🔗 [LinkedIn](https://www.linkedin.com/in/debasish-maji-88170a96/) | 🔗 [GitHub](https://github.com/DebasishMaji)
