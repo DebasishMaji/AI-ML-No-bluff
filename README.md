@@ -1,7 +1,7 @@
 # AI-ML-No-bluff
 
 
-### *A Comprehensive Guide with a Real-World Example*  
+### *A Comprehensive Understanding of AI/ML and Mathematics with a Real-World Example*  
 **Author**: Debasish Maji  
 🔗 [LinkedIn](https://www.linkedin.com/in/debasish-maji-88170a96/) | 🔗 [GitHub](https://github.com/DebasishMaji)
 
